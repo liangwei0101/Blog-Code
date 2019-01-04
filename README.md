@@ -65,11 +65,10 @@ You can decide to show post tags or not.
 ```yml
 home_posts_tag: true
 ```
-![home_posts_tag-true](./source/_posts/hexo-theme-beantech/home_posts_tag-true.png)
+
 ```yml
 home_posts_tag: false
 ```
-![home_posts_tag-false](./source/_posts/hexo-theme-beantech/home_posts_tag-false.png)
 
 ### Markdown render
 My markdown render engine plugin is [hexo-renderer-markdown-it](https://github.com/celsomiranda/hexo-renderer-markdown-it).
